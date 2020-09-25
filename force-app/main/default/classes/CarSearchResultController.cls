@@ -9,6 +9,6 @@ public with sharing class CarSearchResultController {
         else {
             return [Select Id,Name,Available_For_Rent__c,Picture__c from Car__c where Car_Type__c=:CarTypeId and Available_For_Rent__c=true]; 
         }
-       
+       //Test
     }
 }
