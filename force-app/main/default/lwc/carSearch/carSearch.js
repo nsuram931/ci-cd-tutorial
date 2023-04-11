@@ -5,6 +5,7 @@ export default class CarSearch extends LightningElement {
     carTypeSelectHandler(event){
         this.carTypeId=event.detail;
         console.log('Test123');
+        //Testing
 
         
        
