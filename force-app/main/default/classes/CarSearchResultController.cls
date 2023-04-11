@@ -11,4 +11,9 @@ public with sharing class CarSearchResultController {
         }
        
     }
+
+    public static void Test(){
+       
+        
+    }
 }
